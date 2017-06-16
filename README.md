@@ -1,2 +1,1 @@
-# win32
-Windows Applications
+# Python
